@@ -33,7 +33,7 @@ questions about the issue as you need to
 * Create pull request when your able to solve an issue and it will be up for review 
 
 ### Creating a pull request 
-* Each pull request should be focusing on solving an issue 
+* Each pull request should be focusing on solving one issue 
 * Check to make sure pull request is unique 
 * Make sure to follow the standards for organizing files and folders
 
