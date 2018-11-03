@@ -28,7 +28,9 @@ You can help out the project with no game development experience. Heres some of 
 
 ### How to contribute to the code 
 * Go to the issues tab to find issues/tasks you want to work on. 
-* Create pull request when your able to solve an issue 
+* When you find an issue that you want to attempt, place a comment saying you want it assigned to you and or ask any 
+questions about the issue as you need to 
+* Create pull request when your able to solve an issue and it will be up for review 
 
 ### Creating a pull request 
 * Each pull request should be focusing on solving an issue 
