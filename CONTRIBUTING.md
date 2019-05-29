@@ -3,7 +3,7 @@
 
 
 ### Getting started 
-You can fork the project on your repository, clone it to your computer and open it in unreal engine.
+You can clone the project on your repository open it in unreal engine. Make sure you clone the Develop branch of the project as it is the most up to date version that the developement team is working on. After you clone it you are able to play test it and submit bugs and improvements. 
 
 
 ## Working in the issues tab
