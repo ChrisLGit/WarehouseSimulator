@@ -53,4 +53,4 @@ questions about the issue as you need to
 ### Standards for using branches 
 We use the git-flow system for managing are branches, you can read up on [git-flow here](https://nvie.com/posts/a-successful-git-branching-model/)
 * The master branch contains the latest fully functional release 
-* Main development for software will be submitted to the develope branch.
+* Main development for software will be submitted to the develop branch.
