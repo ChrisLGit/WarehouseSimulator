@@ -136,7 +136,7 @@ item storage. Warehouse becomes crowded very quickly
 Make money and buy a bigger warehouse when appropriate 
 ### Physical Description
 Small almost 2 car garage size(size to be adjusted with playtesting) containing computer desk and garage door for truck docking, 
-low ceiling high to limit equipment thats usable(no forklifts or multiheight storage)   
+low ceiling height to limit equipment thats usable(no forklifts or multiheight storage)   
 ## Level #2
 The warehouse levels will get larger in size and support additional equipment
 
@@ -183,6 +183,15 @@ Realistic
 Will be a super basic- no outside, just dark warehouses with lighting   
 ### Game Asset
 Will be realistic 
+
+
+______________________
+## Gameplay Programming/Blueprints Documentation and Guides 
+This section goes into details about how all the files and the gameplay programming works 
+### Blueprints List
+todo
+### Level Creating Guide 
+todo 
 
 ______________________
 
