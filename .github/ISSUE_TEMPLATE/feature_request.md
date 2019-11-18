@@ -1,8 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: 'Add: '
 labels: enhancement
+project: warehouseproject
 assignees: ''
 
 ---
